@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.upiita.primerapractica.app-mergeDebugResources-46:/layout/activity_sesion_iniciada.xml",
+        "source": "com.upiita.primerapractica.app-main-49:/layout/activity_sesion_iniciada.xml"
+    },
+    {
+        "merged": "C:\\Users\\macia\\.gradle\\daemon\\8.13\\com.upiita.primerapractica.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\macia\\.gradle\\daemon\\8.13\\com.upiita.primerapractica.app-main-49:\\layout\\activity_main.xml"
+    }
+]
