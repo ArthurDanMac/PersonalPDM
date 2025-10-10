@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Donaldo Ugalde",
+    "email": "donaldo.ugalde@ejemplo.com",
+    "passwd": "0e893885b84799d23ba34ed5156ece5636a7a13265ba78ec765e7c6d14be8246",
+    "pregunta": "¿Cuál es tu comida favorita?",
+    "respuesta": "pozole"
+  },
+  {
+    "name": "Alejandro Jimenez",
+    "email": "alejandro.jimenez@ejemplo.com",
+    "passwd": "1665df38beabb913761ddd467e9d94d545c7ffbdf9a8b3fd26a8cbf12d844a46",
+    "pregunta": "¿En qué ciudad naciste?",
+    "respuesta": "guadalajara"
+  },
+  {
+    "name": "Adael Reyes",
+    "email": "adael.reyes@ejemplo.com",
+    "passwd": "4e5e9e473a150ce67346a2ca4641c129c155fbee39f9f27a0e23643d8680da0d",
+    "pregunta": "¿Cuál fue el nombre de tu primera mascota?",
+    "respuesta": "rocky"
+  },
+  {
+    "name": "Luis Sosa",
+    "email": "luis.sosa@ejemplo.com",
+    "passwd": "ec09daec20502df218e5a03054399c1215b97e74a770b49c627a509cdfbd36cc",
+    "pregunta": "¿Cuál es tu película favorita?",
+    "respuesta": "interestelar"
+  },
+  {
+    "name": "Arturo",
+    "email": "arturo.macias@ejemplo.com",
+    "passwd": "36e0cdb566c8d97380dd7bdfd22bd9539c2f15bf21e661b68d5b83ceb8d1799f",
+    "pregunta": "¿Cuál fue tu primer proyecto técnico?",
+    "respuesta": "antena"
+  }
+]
